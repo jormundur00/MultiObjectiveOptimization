@@ -1,2 +1,2 @@
 # MultiObjectiveOptimization
-Project for the Computer Intelligence course on the Faculty of Mathemathics, University of Belgrade.
+Project for the Computational Intelligence course on the Faculty of Mathematics, University of Belgrade.
